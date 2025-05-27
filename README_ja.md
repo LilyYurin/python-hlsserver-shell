@@ -28,13 +28,13 @@ sudo apt install ffmpeg python3
 ### 基本的な使い方(デフォルトポート：8080)
 
 ```bash
-./スクリプト名.sh
+./python-hlsserver.bash
 ```
 
 ### 任意のポート番号を指定する場合(例：8000番ポート)
 
 ```bash
-./スクリプト名.sh 8000
+./python-hlsserver.bash 8000
 ```
 
 ---
